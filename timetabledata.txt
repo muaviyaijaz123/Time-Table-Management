@@ -1,0 +1,1213 @@
+
+Monday Tuesday  Wednesday  Thursday  Friday 
+CS-1, CS-2, CS-3, CS-4, CS-5, CS-6, CS-7, CS-8, CS-9, CS-10, CS-11, CS-15, CS-16, Seminar Hall, CE-2, CE-3, English Lab-I, English Lab-II, English Lab-3, Lab (CS-8), Lab(CS-1), Lab(CS-4), Lab(CS-6), Lab(CS-9), Lab(CS-10), Physics Lab, Micro Lab,
+
+8:00 a.m. - 9:30 a.m. ,  
+
+Machine Learning, MS-DS 
+no_class,
+Technical & Business Writing, CS-C 
+no_class,
+Mass Communication, CS  
+Applied Physics, CS-H   
+Professional Issues in IT, CS-A  
+Numerical Methods, CS-C  
+Total Quality Management, CS  
+Digital Logic Design, CS-B  
+Software for Mobile Devices, CS-D 
+Arabic Language, CS  
+Technical & Business Writing, CS-A 
+Programming Fundamentals, CS-I 
+no_class,
+no_class,   
+Comm & Presentation Skills Lab, CS-C1  
+Comm & Presentation Skills Lab, CS-C2  
+no_class,
+no_class,
+Object Oriented Programming Lab| CS-E1  CS-E2  
+no_class,
+Object Oriented Analysis & Design Lab| CS-B1  CS-B2  
+no_class,
+no_class,
+Digital Logic Design Lab, CS-D1 
+Digital Logic Design Lab, CS-D2 
+
+
+9:30 a.m. - 11:00 a.m. ,
+
+Advanced Programming, CS  
+no_class,
+Numerical Methods, CS-B  
+no_class,
+no_class,
+Applied Physics, CS-G  
+Professional Issues in IT, CS-B  
+no_class,
+Database Systems, CS-A 
+Database Systems, CS-C  
+Software for Mobile Devices, CS-C  
+Digital Logic Design, CS-A  
+Technical & Business Writing, CS-F  
+no_class,
+Theory of Automata, CS-A  
+Differential Equations (Cal II), CS-C  
+Comm & Presentation Skills Lab, CS-B1  
+Comm & Presentation Skills Lab, CS-B2  
+Comm & Presentation Skills Lab, CS-F1  
+no_class,
+Object Oriented Programming Lab| CS-E1  CS-E2 
+no_class,
+Object Oriented Analysis & Design Lab| CS-B1  CS-B2  
+no_class,
+no_class,
+Digital Logic Design Lab, CS-D1  
+Digital Logic Design Lab, CS-D2  
+ 
+ 11:00 a.m. - 12:30 p.m. ,
+ 
+ Computational Intelligence, MS 
+ Software Testing, CS-A  
+ Computer Architecture, CS-B 
+ no_class,
+ no_class,
+ Calculus and Ana. Geometry, CS-G  
+ Comp. Org. & Assembly L., CS-A 
+ Design & Analysis of Algorithms, CS-C 
+ Database Systems, CS-B  
+ Database Systems, CS-D  
+ Object Oriented  Analysis & Design, CS-A  
+ Digital Logic Design, CS-C  
+ Communication & Presentation Skills, CS-B1 
+ Communication & Presentation Skills, CS-B2  
+ Theory of Automata, CS-B 
+ Differential Equations (Cal II), CS-D 
+ Comm & Presentation Skills Lab, CS-H1 
+ Comm & Presentation Skills Lab, CS-H2 
+ no_class,
+ no_class,
+ Object Oriented Programming Lab| CS-F1  CS-F2  
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,       	
+ 
+ 12:30 p.m. - 2:00 p.m. ,
+ 
+ Data Sceince, MS 
+ Human Computer Interaction, CS-F  
+ Numerical Methods, CS-A  
+ Software for Mobile Devices, CS-A 
+ Comp. Org. & Assembly L., CS-C 
+ Calculus and Ana. Geometry, CS-H  
+ Comp. Org. & Assembly L., CS-B  
+ Design & Analysis of Algorithms, CS-D 
+ Design & Analysis of Algorithms, CS-E 
+ Fundamental of Computer Vision, CS-B 
+ no_class,
+ Differential Equations, CS-A 
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ Object Oriented Programming Lab| CS-F1  CS-F2  
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+
+ 2:00 p.m. - 3:30 p.m. ,
+ 
+ no_class,
+ Human Computer Interaction, CS-C 
+ Computer Architecture, CS-A 
+ no_class,
+ no_class, 
+ Sociology, CS-B  
+ French Language, CS-A 
+ no_class,
+ Network Security, CS 
+ no_class,
+ Object Oriented  Analysis & Design, CS-B 
+ Psychology, CS 
+ Communication & Presentation Skills, CS-A1 
+ Communication & Presentation Skills, CS-A2 
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ Object Oriented Programming Lab| CS-C1  CS-C2   
+ no_class,
+ Programming Fundamentals Lab| CS-H1  CS-H2   
+ no_class,
+ Object Oriented Programming Lab| CS-D1  CS-D2   
+ Digital Logic Design Lab, CS-E1   
+ Digital Logic Design Lab, CS-E2   
+ 
+ 3:30 p.m. - 5:00 p.m. ,
+ 
+ no_class,
+ no_class, 
+ Differential Equations (Cal II), CS-F 
+ Software for Mobile Devices, CS-B 
+ Pakistan Studies, CS-B  
+ Sociology, CS-A  
+ French Language, CS-B  
+ no_class,
+ Database Systems, CS-E  
+ Fundamental of Computer Vision, CS-A  
+ Differential Equations, CS-C 
+ Differential Equations, CS-B 
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ Object Oriented Programming Lab| CS-C1  CS-C2  
+ no_class,
+ Programming Fundamentals Lab| CS-H1  CS-H2   
+ no_class,
+ Object Oriented Programming Lab| CS-D1  CS-D2   
+ Digital Logic Design Lab, CS-E1   
+ Digital Logic Design Lab, CS-E2   
+ 
+ 5:00 p.m. - 6:30 p.m.  , 
+ no_class,
+ no_class,
+ Calculus-II, CS-R 
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+
+ 6:30 p.m. - 8:00 p.m. ,  
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+ no_class,
+
+ 8:00 a.m. - 9:30 a.m. ,
+
+no_class,							
+Computer Networks, CS-B 						
+no_class,						
+no_class,							
+Differential Equations (Cal II),CS-A 							
+Technical & Business Writing,CS-E 							
+no_class,							
+Technical & Business Writing,CS-D							
+Software Testing,CS-B 					
+Artificial Intelligence,CS-C 							
+no_class,							
+Pakistan Studies,CS-E 							
+Digital Logic Design,CS-D  							
+no_class,
+no_class,
+Pakistan Studies,CS-H 																
+Comm & Presentation Skills Lab,CS-G1 																
+Comm & Presentation Skills Lab,CS-G2 
+no_class,
+no_class,
+Database Systems Lab| CS-C1  CS-C2 																
+no_class,																
+Database Systems Lab| CS-D1  CS-D2 																
+Operating Systems Lab| CS-A1  CS-A2 																
+Operating Systems Lab| CS-B1  CS-B2 																
+Digital Logic Design Lab,CS-F1  																
+Digital Logic Design Lab,CS-F2  
+
+9:30 a.m. - 11:00 a.m. ,
+
+no_class,							
+Computer Networks,CS-A 					
+Computer Programming,CS-A						
+Data Structures,CS-A 						
+Data Structures,CS-C 							
+Programming Fundamentals,CS-G 							
+no_class,							
+Web Programming,CS-A 							
+Artificial Intelligence,CS-B 							
+Artificial Intelligence,CS-D 							
+no_class,							
+Software Engineering,CS-B 							
+no_class,
+no_class,
+no_class,
+Differential Equations (Cal II), CS-E 							
+Comm & Presentation Skills Lab,CS-D1 
+no_class,
+no_class,
+no_class,
+Database Systems Lab| CS-C1  CS-C2  																
+no_class,																
+Database Systems Lab| CS-D1  CS-D2  																
+Operating Systems Lab| CS-A1  CS-A2  																
+Operating Systems Lab| CS-B1  CS-B2  																
+Digital Logic Design Lab,CS-F1   																
+Digital Logic Design Lab,CS-F2   
+
+11:00 a.m. - 12:30 a.m. ,
+
+Cloud Computing, MS 						
+Communication & Presentation Skills,CS-C2 										
+Operating Systems,CS-C 							
+Data Structures,CS-B 							
+Differential Equations (Cal II),CS-B 							
+Programming Fundamentals,CS-H 						
+Design & Analysis of Algorithms,CS-A 							
+Web Programming,CS-B 							
+Advance Database Concepts,CS 							
+Numerical Methods,CS-D 						
+Object Oriented Programming,CS-A 							
+Software Engineering,CS-A 							
+Communication & Presentation Skills,CS-C1 										
+Programming Fundamentals,CS-I 							
+no_class,
+no_class,
+Comm & Presentation Skills Lab,CS-E1 							
+Comm & Presentation Skills Lab,CS-E2 						
+no_class,
+no_class,
+Computer Programming Lab,CS-A1 																
+no_class,
+no_class,
+no_class,
+no_class,
+Digital Logic Design Lab,CS-G2  														
+no_class,
+
+12:30 p.m. - 2:00 p.m. ,
+
+Theory of Automata - II,MS 						
+no_class,
+Operating Systems,CS-D						
+Operating Systems,CS-E							
+Operating Systems,CS-A							
+Data Science,CS-A 						
+Pakistan Studies,CS-D 							
+Digital Logic Design,CS-E  							
+Artificial Intelligence,CS-A 							
+Information Retrieval,CS 						
+Human Computer Interaction,CS-B 							
+Digital Logic Design,CS-H 						
+no_class,
+Human Computer Interaction,CS-E 							
+no_class,
+no_class,
+Comm & Presentation Skills Lab,CS-A1 							
+Comm & Presentation Skills Lab,CS-A2 							
+no_class,
+no_class,
+Computer Programming Lab,CS-A1 															
+Design & Analysis of Algorithms,CS-F 							
+no_class,
+no_class,
+no_class,
+Digital Logic Design Lab,CS-G2 														
+no_class,	
+
+2:00 p.m. - 3:30 p.m.  ,
+
+Advanced Computer Architecture,MS 							
+Social Network Analysis,MS-DS 							
+Design & Analysis of Algorithms,CS-B 							
+Professional Issues in IT,CS-C 						
+Operating Systems,CS-B 					
+Data Science,CS-B 						
+Pakistan Studies,CS-C 							
+Digital Logic Design,CS-F  							
+Object Oriented Programming,CS-B 							
+Human Computer Interaction,CS-D 							
+Human Computer Interaction,CS-A 							
+Digital Logic Design,CS-G 						
+Communication & Presentation Skills,CS-D1 										
+Communication & Presentation Skills,CS-D2 										
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+Object Oriented Programming Lab| CS-A1 CS-A2 																
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+3:30 p.m. - 5:00 p.m.  ,
+
+no_class,							
+Technical & Business Writing,CS-B 							
+Enterprise Information System,CS 							
+Philosophy,CS 		
+Organizational Behavior,CS 							
+Compiler Construction,CS 							
+Entrepreneurship,CS 							
+Pakistan Studies,CS-F 							
+Artificial Intelligence,CS-E 										
+Artificial Intelligence,CS-F 										
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+Comm & Presentation Skills Lab,CS-D2 							
+Comm & Presentation Skills Lab,CS-F2 							
+no_class,
+no_class,
+Object Oriented Programming Lab| CS-A1 CS-A2 																
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+5:00 p.m. - 6:30 p.m.  ,
+																
+no_class,
+English Composition,CS-R 							
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+6:30 p.m. - 8:30 p.m.   ,
+
+no_class,
+no_class,						
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+
+8:00 a.m. - 9:30 a.m. ,
+
+Machine Learning, MS-DS 																																																																		
+Advance Computer Networks,MS  	
+Technical & Business Writing,CS-C  
+no_class,
+Mass Communication,CS  																
+Applied Physics,CS-H 																
+Professional Issues in IT,CS-A  																
+Numerical Methods,CS-C 																
+no_class,											
+Digital Logic Design,CS-B   																
+Software for Mobile Devices,CS-D 															
+Arabic Language,CS 									 							
+Technical & Business Writing,CS-A 														
+no_class,															
+Pakistan Studies,CS-G 															
+Pakistan Studies,CS-A 																
+Comm & Presentation Skills Lab,CS-C1 																
+Comm & Presentation Skills Lab,CS-C2 	
+    no_class,
+	no_class,						
+	no_class,						
+	no_class,						
+	no_class,						
+	no_class,						
+	no_class,						
+	no_class,						
+	no_class,	
+	
+9:30 a.m. - 11:00 a.m. ,
+
+Advanced Programming, CS 
+Advance Computer Networks, MS 
+Numerical Methods,CS-B 							
+Object Oriented Programming,CS-F 							
+Object Oriented Programming,CS-C 							
+Applied Physics,CS-G 							
+Professional Issues in IT,CS-B 							
+no_class,							
+Database Systems,CS-A 							
+Database Systems,CS-C 							
+Software for Mobile Devices,CS-C 							
+Digital Logic Design,CS-A  							
+Technical & Business Writing, CS-F 							
+no_class,							
+Theory of Automata,CS-A 							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+11:00 a.m. - 12:30 p.m. ,
+
+Computational Intelligence,MS 							
+Software Testing,CS-A 							
+Computer Architecture,CS-B 							
+Object Oriented Programming,CS-E 							
+Object Oriented Programming,CS-D 							
+Calculus and Ana. Geometry,CS-G 							
+Comp. Org. & Assembly L.,CS-A 						
+Design & Analysis of Algorithms,CS-C 							
+Database Systems,CS-B 							
+Database Systems,CS-D 							
+Object Oriented  Analysis & Design,CS-A 							
+Digital Logic Design,CS-C 				
+Communication & Presentation Skills,CS-F1 									
+Communication & Presentation Skills,CS-F2 										
+Theory of Automata,CS-B 				
+Modern Politics & Government,CS 										
+Comm & Presentation Skills Lab,CS-H1 										
+Comm & Presentation Skills Lab,CS-H2 										
+	no_class,		
+	no_class,
+	Object Oriented Programming Lab| CS-B1 CS-B2 																
+			no_class,													
+			no_class,	
+			no_class,
+			no_class,
+			Digital Logic Design Lab,CS-A1  
+			no_class,
+
+12:30 p.m. - 2:00 p.m. ,
+
+Data Sceince,MS 							
+Human Computer Interaction,CS-F 							
+Numerical Methods,CS-A 							
+Software for Mobile Devices,CS-A 							
+Comp. Org. & Assembly L.,CS-C 							
+Calculus and Ana. Geometry,CS-H 							
+Comp. Org. & Assembly L.,CS-B 							
+Design & Analysis of Algorithms,CS-D 							
+Design & Analysis of Algorithms,CS-E 							
+Fundamental of Computer Vision,CS-B 							
+	no_class,						
+Differential Equations,CS-A 
+no_class,	
+no_class,	
+no_class,	
+no_class,	
+no_class,	
+no_class,	
+no_class,
+no_class,
+Object Oriented Programming Lab| CS-B1 CS-B2 
+no_class,
+no_class,
+no_class,
+no_class,
+Digital Logic Design Lab,CS-A1  
+no_class,
+
+2:00 p.m. - 3:30 p.m. ,
+
+Natural Language Processing,MS 							
+Human Computer Interaction,CS-C 						
+Computer Architecture,CS-A 							
+no_class,							
+no_class,							
+Sociology,CS-B 							
+French Language,CS-A 							
+no_class,							
+Network Security,CS 							
+no_class,							
+Object Oriented  Analysis & Design,CS-B 							
+Psychology,CS							
+Communication & Presentation Skills,CS-H1 										
+Communication & Presentation Skills,CS-H2 										
+no_class,										
+no_class,										
+Comm & Presentation Skills Lab,CS-B1 										
+Comm & Presentation Skills Lab,CS-B2 										
+no_class,
+no_class,
+Programming Fundamentals Lab| CS-G1 CS-G2 																
+no_class,																
+no_class,																
+no_class,
+no_class,
+Digital Logic Design Lab,CS-C1  
+no_class,
+
+3:30 p.m. - 5:00 p.m. ,
+
+no_class,							
+no_class,							
+Differential Equations (Cal II), CS-F 							
+Software for Mobile Devices,CS-B 						
+Pakistan Studies,CS-B 					
+Sociology,CS-A					
+French Language,CS-B 							
+no_class,							
+Database Systems,CS-E							
+Fundamental of Computer Vision,CS-A 							
+Differential Equations,CS-C 					
+Differential Equations,CS-B 							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+Programming Fundamentals Lab| CS-G1 CS-G2 																
+no_class,																
+no_class,																
+no_class,
+no_class,
+Digital Logic Design Lab,CS-C1  
+no_class,
+
+5:00 p.m. - 6:30 p.m. ,
+
+no_class,
+no_class,
+Calculus-II,CS-R 
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+6:30 p.m. - 8:00 p.m. ,
+
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+																
+8:00 a.m. - 9:30 a.m. ,							
+
+no_class,
+Computer Networks,CS-B							
+no_class,						
+no_class,							
+Differential Equations (Cal II),CS-A							
+Technical & Business Writing,CS-E							
+no_class,							
+Technical & Business Writing,CS-D							
+Software Testing,CS-B							
+Artificial Intelligence,CS-C							
+no_class,					
+Pakistan Studies,CS-E							
+Digital Logic Design,CS-D 							
+no_class,		
+no_class,
+Pakistan Studies,CS-H							
+Comm & Presentation Skills Lab,CS-G2							
+Comm & Presentation Skills Lab,CS-G1							
+no_class,
+no_class,																
+Database Systems Lab|CS-A1  CS-A2																
+no_class,																
+Database Systems Lab|CS-B1  CS-B2																
+Operating Systems Lab|CS-C1  CS-C2																
+Operating Systems Lab|CS-D1  CS-D2																
+Digital Logic Design Lab,CS-B1 																
+Digital Logic Design Lab,CS-B2 																
+
+9:30 a.m. - 11:00 a.m. ,
+
+Cloud Computing,MS							
+Computer Networks,CS-A							
+Computer Programming,CS-A						
+Data Structures,CS-A							
+Data Structures,CS-C							
+Programming Fundamentals,CS-G							
+no_class,							
+Web Programming,CS-A							
+Artificial Intelligence,CS-B							
+Artificial Intelligence,CS-D							
+no_class,							
+Software Engineering,CS-B							
+no_class,							
+no_class,							
+no_class,
+Differential Equations (Cal II),CS-C							
+Comm & Presentation Skills Lab,CS-D1							
+no_class,							
+no_class,									
+no_class,
+Database Systems Lab|CS-A1  CS-A2																
+no_class,																
+Database Systems Lab|CS-B1  CS-B2																
+Operating Systems Lab|CS-C1  CS-C2																
+Operating Systems Lab|CS-D1  CS-D2																
+Digital Logic Design Lab,CS-B1 																
+Digital Logic Design Lab,CS-B2 																
+
+11:00 a.m. - 12:30 p.m. ,
+
+Digital Image Processing,CS							
+Communication & Presentation Skills,CS-G2
+Operating Systems,CS-C							
+Data Structures,CS-B							
+Differential Equations (Cal II),CS-B							
+Programming Fundamentals,CS-H							
+Design & Analysis of Algorithms,CS-A							
+Web Programming,CS-B							
+Advance Database Concepts,CS							
+Numerical Methods,CS-D							
+Object Oriented Programming,CS-A							
+Software Engineering,CS-A							
+Communication & Presentation Skills,CS-G1
+no_class,							
+no_class,
+Differential Equations (Cal II),CS-D							
+Comm & Presentation Skills Lab,CS-E1							
+Comm & Presentation Skills Lab,CS-E2		
+no_class,
+no_class,							
+no_class,							
+no_class,							
+no_class,							
+no_class,
+no_class,																					
+Digital Logic Design Lab,CS-C2 																										
+no_class,
+
+12:30 p.m. - 2:00 p.m. ,
+
+Theory of Automata - II,MS
+no_class,									
+Operating Systems,CS-D							
+Operating Systems,CS-E							
+Operating Systems,CS-A							
+Data Science,CS-A							
+Pakistan Studies,CS-D							
+Digital Logic Design,CS-E 							
+Artificial Intelligence,CS-A							
+Information Retrieval,CS							
+Human Computer Interaction,CS-B							
+Digital Logic Design,CS-H 							
+no_class,
+Human Computer Interaction,CS-E							
+no_class,			
+no_class,			
+no_class,							
+no_class,							
+no_class,							
+no_class,		
+no_class,
+Design & Analysis of Algorithms,CS-F							
+no_class,
+no_class,
+no_class,																				
+Digital Logic Design Lab,CS-C2 														
+no_class,
+
+2:00 p.m. - 3:30 p.m. ,
+
+Advanced Computer Architecture,MS							
+Social Network Analysis,MS-DS							
+Design & Analysis of Algorithms,CS-B							
+Professional Issues in IT,CS-C							
+Operating Systems,CS-B							
+Data Science,CS-B							
+Pakistan Studies,CS-C							
+Digital Logic Design,CS-F 							
+Object Oriented Programming,CS-B							
+Human Computer Interaction,CS-D							
+Human Computer Interaction,CS-A							
+Digital Logic Design,CS-G 							
+Communication & Presentation Skills,CS-E1										
+Communication & Presentation Skills,CS-E2										
+no_class,			
+no_class,			
+Comm & Presentation Skills Lab,CS-D2										
+no_class,										
+no_class,		
+no_class,		
+no_class,										
+no_class,										
+no_class,										
+no_class,
+no_class,																								
+Digital Logic Design Lab,CS-A2 														
+no_class,
+
+3:30 p.m. - 5:00 p.m. ,
+
+no_class,							
+Technical & Business Writing,CS-B							
+Enterprise Information System,CS							
+Philosophy,CS							
+Organizational Behavior,CS							
+Compiler Construction,CS							
+Entrepreneurship,CS							
+Pakistan Studies,CS-F							
+Artificial Intelligence,CS-E							
+Artificial Intelligence,CS-F							
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,		
+no_class,
+no_class,
+no_class,		
+no_class,
+no_class,														
+Digital Logic Design Lab,CS-A2 														
+no_class,														
+							
+5:00 p.m. - 6:30 p.m. ,
+
+Requirement Engineering,MS-SPM-A																
+English Composition,CS-R																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,																
+no_class,
+no_class,
+
+6:30 p.m. - 8:00 p.m. ,
+
+Requirement Engineering,MS-SPM-A
+English Composition, CS-R	
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+8:00 a.m. - 9:30 a.m. ,
+
+no_class,
+no_class,
+no_class,
+no_class,							
+no_class,
+no_class,
+no_class,
+no_class,							
+Total Quality Management,CS
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+Pakistan Studies,CS-G							
+Pakistan Studies,CS-A							
+Comm & Presentation Skills Lab,CS-F1							
+Comm & Presentation Skills Lab,CS-F2							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,							
+no_class,
+no_class,
+no_class,
+no_class,
+
+9:30 a.m. - 11:00 a.m. ,
+
+no_class,
+no_class,
+no_class,
+Object Oriented Programming,CS-F							
+Object Oriented Programming,CS-C							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+Differential Equations (Cal II),CS-E							
+no_class,
+no_class,
+no_class,
+no_class,
+Computer Networks Lab|CS-A1  CS-A2																
+Comp. Org. & Assembly Lang.  Lab|CS-C1 CS-C2																
+no_class,
+Operating Systems Lab|CS-E1  CS-E2																
+Object Oriented Analysis & Design Lab|CS-A1 CS-A2																
+Digital Logic Design Lab,CS-H1 																
+Digital Logic Design Lab,CS-H2 																
+
+11:00 a.m. - 12:30 p.m. ,
+
+Digital Image Processing,CS							
+no_class,
+no_class,
+Object Oriented Programming,CS-E							
+Object Oriented Programming,CS-D							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+Modern Politics & Government,CS							
+Comm & Presentation Skills Lab,CS-A1							
+Comm & Presentation Skills Lab,CS-A2							
+no_class,
+no_class,
+Computer Networks Lab|CS-A1  CS-A2																
+Comp. Org. & Assembly Lang.  Lab|CS-C1 CS-C2																
+no_class,
+Operating Systems Lab|CS-E1  CS-E2																
+Object Oriented Analysis & Design Lab|CS-A1 CS-A2																
+Digital Logic Design Lab,CS-H1 																
+Digital Logic Design Lab,CS-H2 																
+
+12:30 p.m - 2:00 p.m. ,
+
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+2:00 p.m - 3:30 p.m. ,
+
+Natural Language Processing,MS							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,							
+Computer Programming Lab,CS-A2																
+Database Systems Lab|CS-E1  CS-E2																
+Comp. Org. & Assembly Lang.  Lab|CS-A1 CS-A2																
+Programming Fundamentals Lab,CS-I1																
+Comp. Org. & Assembly Lang.  Lab|CS-B1 CS-B2																
+Computer Networks Lab|CS-B1  CS-B2																
+Digital Logic Design Lab,CS-G1 																
+no_class,																
+							
+3:30 p.m - 5:00 p.m. ,
+
+Natural Language Processing,MS							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,							
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,							
+Computer Programming Lab,CS-A2																
+Database Systems Lab|CS-E1  CS-E2																
+Comp. Org. & Assembly Lang.  Lab|CS-A1 CS-A2																
+Programming Fundamentals Lab,CS-I1																
+Comp. Org. & Assembly Lang.  Lab|CS-B1 CS-B2																
+Computer Networks Lab|CS-B1  CS-B2																
+Digital Logic Design Lab,CS-G1 																
+no_class,							
+							
+5:00 p.m. - 6:30 p.m. ,													
+
+Human Resource Management,MS-SPM																
+Software QA & Management,MS-SPM																
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+
+6:30 p.m. - 8:00 p.m. ,	
+
+Human Resource Management,MS-SPM																
+Software QA & Management,MS-SPM		
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+no_class,
+										
+
+																
+																
+																
+																
+
+
+
